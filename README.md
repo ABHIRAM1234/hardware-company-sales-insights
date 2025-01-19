@@ -118,9 +118,9 @@ Step 5: Save the file as (.twb or .twbx)
 
 #### Creating Star Schema in Tableau
 	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/app/profile/abhiram.mallarajapattana.venkatarangan/vizzes"><img width="80%" src="https://github.com/ABHIRAM1234/hardware-company-sales-insights/blob/main/images/Star%20Schema.png" /></a></p>
 
-#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/app/profile/abhiram.mallarajapattana.venkatarangan/viz/SalesInsights-DataAnalysisProjectusingTableau_17370574441710/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 	
 <p  align="center"><a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
 
