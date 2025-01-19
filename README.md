@@ -2,8 +2,6 @@
 
 **I am sharing India based Hardware company Sales Insights - A Data Analysis Project performed on Tableau & SQL in my journey into Data Science.** 
 
-For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass:
-
 ### About Project 👨‍💻
 
 - Performed India based hardware company sales insights - A Data Analysis project.
