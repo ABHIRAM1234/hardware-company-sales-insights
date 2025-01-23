@@ -16,7 +16,7 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)  🔗
+### [Tableau Dashboard Link](https://public.tableau.com/app/profile/abhiram.mallarajapattana.venkatarangan/viz/SalesInsights-DataAnalysisProjectusingTableau_17370574441710/Dashboard-RevenueAnalysis)  🔗
 
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
